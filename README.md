@@ -35,4 +35,4 @@ mount /dev/mapper/centos-home
 
 10.home文件恢复
 tar xvf /tmp/home.tar -C /home/
-
+尝试修改一下
